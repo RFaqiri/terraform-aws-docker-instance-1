@@ -16,3 +16,4 @@ module "docker_instance" {
     source = "RFaqiri/docker-instance-1/aws"
     key_name = "rahmatullah_key"
 }
+```
